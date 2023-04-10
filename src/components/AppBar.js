@@ -154,6 +154,7 @@ function SearchAppBar() {
           <Link to="/">
             <img src="https://e7.pngegg.com/pngimages/758/371/png-clipart-web-development-web-service-web-developer-digital-marketing-develop-trademark-logo.png" alt="Logo" width="36" height="36" />
           </Link>
+          <h2>Herberts Handel</h2>
           <Search>
             <SearchIconWrapper>
               <SearchIcon />
