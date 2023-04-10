@@ -1,0 +1,42 @@
+$black: #121212;
+$blue: #3f1fcf;
+$green: #37b007;
+$lightGreen: #a6e300;
+$yellow: #e8dc00;
+$orange: #e07f00;
+$red: #de2904;
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: $black;
+  color: #fff;
+}
+
+#voteFace {
+  width: 460px;
+  margin: 0 auto;
+  padding-top: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.fa-laugh {
+  color: $green;
+}
+
+.fa-smile {
+  color: $lightGreen;
+}
+
+.fa-meh {
+  color: $yellow;
+}
+
+.fa-frown {
+  color: $orange;
+}
+
+.fa-dizzy {
+  color: $red;
+}
